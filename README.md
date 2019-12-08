@@ -65,5 +65,8 @@ https://docs.microsoft.com/en-us/ef/core/modeling/value-conversions
 
 This is a nicer way to do the above extra property, however it requires using the fluent API which I dislike.
 
-- [ ] Prototype with the converter
-- [ ] See how SQLite/SQL Server JSON support could be used (maybe a stored procedure directly or in the converter)
+## To-Do
+
+### Prototype with the converter
+
+### See how SQLite/SQL Server JSON support could be used (maybe a stored procedure directly or in the converter)
